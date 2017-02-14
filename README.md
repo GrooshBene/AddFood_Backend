@@ -15,6 +15,8 @@
 ###Food Schema
 
 동봉된 pdf 문서 참조.
+[혹은 이걸 ](https://github.com/GrooshBene/EatSight-npm)참조
+
 
 
 ##API Docs
