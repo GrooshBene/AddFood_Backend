@@ -26,3 +26,4 @@ server.listen(8000);
 console.log("Server Running At Port 8000");
 
 require('./route/auth')(app, User, randomString);
+require('./route/fooddb')(app);
